@@ -2,8 +2,7 @@
 Browse and watch in peace
 
 ### Installation
-1. Download the installation executable in the releases page. [Click here](https://github.com/ad4mh3/NoFkgPopups/releases/tag/InstallUtility "Click here") to visit the latest release.
-2. Run "update.exe"
+1. Download and run the installation executable in the releases page. [Click here](https://github.com/ad4mh3/NoFkgPopups/releases/tag/InstallUtility "Click here") to visit the latest release.
 
 > Please note: Your antimalware may detect a part/entirety of this app as malware. It is not. The code is publicly available to view and download in the releases page.
 
